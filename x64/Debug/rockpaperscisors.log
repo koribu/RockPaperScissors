@@ -1,0 +1,3 @@
+﻿  rockpaperscisors.cpp
+C:\Users\snnkl\BenimVeri\GBC\New folder\New folder\DirectX\rockpaperscisors\rockpaperscisors.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rockpaperscisors.vcxproj -> C:\Users\snnkl\BenimVeri\GBC\New folder\New folder\DirectX\rockpaperscisors\x64\Debug\rockpaperscisors.exe
